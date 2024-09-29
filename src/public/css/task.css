@@ -1,0 +1,106 @@
+.message {
+    background-color: aquamarine;
+}
+
+.error {
+    background-color: red;
+}
+
+.create_top{
+    text-align: center;
+    border-bottom: 3px solid black;
+    width: 70%;
+    margin: 30px auto;
+}
+
+.create_box{
+    margin: 0 20%;
+}
+
+.new_task_box {
+    width: 30%;
+    padding: 0 3%;
+}
+
+.new_create_task{
+    display: flex;
+    justify-content: space-around;
+}
+
+.input_new_task{
+    border: none;
+    outline: none;
+    border-bottom: 2px solid black;
+}
+
+.group_select{
+    outline: none;
+}
+
+.add_button{
+    background-color: black;
+    border-color: black;
+    color: white;
+}
+
+.search_top{
+    text-align: center;
+    border-bottom: 3px solid black;
+    width: 70%;
+    margin: 30px auto;
+}
+
+.search_box{
+    margin: 0 20%;
+}
+
+.search_button{
+    background-color: black;
+    border-color: black;
+    color: white;
+}
+
+.search_task_box{
+    width: 30%;
+    padding: 0 3%;
+}
+
+.search_task{
+    display: flex;
+    justify-content: space-around
+}
+
+.task_group_block{
+    display: flex;
+    justify-content: space-around;
+    width: 60%;
+    margin: 10px auto;
+}
+
+.task_group_item{
+    display: flex;
+    justify-content: space-around;
+    width: 500px;
+}
+
+.input_task_update{
+    border: none;
+    outline: none;
+    border-bottom: 2px solid black;
+    text-align: center;
+}
+
+.delete_form{
+    width: 100px;
+    text-align: center;
+}
+
+.update_button {
+    background-color: blue;
+    border-color: blue;
+}
+
+.delete_button {
+    background-color: red;
+    border-color: red;
+}

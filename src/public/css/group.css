@@ -1,0 +1,83 @@
+.message{
+    background-color: aquamarine;
+}
+
+.error{
+    background-color: red;
+}
+
+.task_top{
+    text-align: center;
+    border-bottom: 3px solid black;
+    width: 70%;
+    margin: 30px auto;
+}
+
+.input_space{
+    display: flex;
+    justify-content: space-between;
+    width: 30%;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.task_create{
+    margin: 0 auto;
+    margin: 5%;
+}
+
+.create_group_name{
+    background-color: black;
+    border-color: black;
+    color: white;
+    height: 40px;
+}
+
+.input_task_name{
+    height: 40px;
+}
+
+.input_task_name {
+    border: none;
+    outline: none;
+    border-bottom: 2px solid black;
+}
+
+.group_view{
+    background-color: pink;
+}
+
+.group_top{
+    text-align: center;
+    font-size: 20px;
+}
+
+.group_item{
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+}
+
+.group_block{
+    display: flex;
+    justify-content: space-around;
+    margin: 3% 30%;
+}
+
+.group_name_item{
+    width: 150%;
+    border: none;
+    outline: none;
+    border-bottom: 2px solid black;
+    text-align: center;
+}
+
+.update_button{
+    background-color: blue;
+    border-color: blue;
+}
+
+.delete_button{
+    background-color: red;
+    border-color: red;
+}
